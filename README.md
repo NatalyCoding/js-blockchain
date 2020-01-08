@@ -1,7 +1,7 @@
 # js-blockchain
 
-node.js
+Node.js
 
-web3.js
+Web3.js
 
 Infura API
